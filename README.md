@@ -1,1 +1,1 @@
-# Jornada-PeregrinoX
+O início de uma peregrinação na área da programação
